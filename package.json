@@ -1,5 +1,5 @@
 {
-	"name": "covid19-stats-cli",
+	"name": "covid-cli-stats",
 	"version": "0.0.1",
 	"description": "CLI tool to get Global and India stats of COVID19",
 	"main": "index.js",

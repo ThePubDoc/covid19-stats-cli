@@ -5,7 +5,7 @@ A simple tool to get Global and India stats of COVID19 directly in your terminal
 ## Installation
 
 ```
-npm i covid19-stats-cli -g
+npm i covid-cli-stats -g
 ```
 
 ## Usage
