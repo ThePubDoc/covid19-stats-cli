@@ -1,0 +1,24 @@
+{
+	"name": "covid19-stats-cli",
+	"version": "0.0.1",
+	"description": "CLI tool to get Global and India stats of COVID19",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"COVID19",
+		"CLI",
+		"tracker",
+		"coronavirus"
+	],
+	"author": "Aayush Agrawal",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^0.19.2"
+	},
+	"bin": {
+		"covid19": "./cli.js"
+	},
+	"homepage": "https://github.com/ThePubDoc/covid19-stats-cli"
+}
