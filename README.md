@@ -1,4 +1,4 @@
-# COVID19
+# COVID19 STATS
 
 A simple tool to get Global and India stats of COVID19 directly in your terminal.
 
